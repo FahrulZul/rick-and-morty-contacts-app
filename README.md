@@ -15,3 +15,4 @@ This project is live on https://rick-and-morty-contacts-app.vercel.app/
 
 -   Next.js
 -   Tailwind CSS
+-   React Table
